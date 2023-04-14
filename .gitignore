@@ -1,0 +1,15 @@
+# Ignore Python virtual environment
+env/
+
+# Ignore cached Python files
+*.pyc
+__pycache__/
+
+# Ignore output JSON files
+json/*
+
+# Ignore any CSV files you don't want to convert
+csv/*
+
+# Ignore any other temporary files or directories
+tmp/
